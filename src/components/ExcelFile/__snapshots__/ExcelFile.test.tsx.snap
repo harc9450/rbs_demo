@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Component should render correctly 1`] = `
+<div>
+  <form>
+    <div
+      className="form-group"
+    >
+      <input
+        className="form-control btn btn-dark"
+        onChange={[Function]}
+        type="file"
+      />
+    </div>
+  </form>
+  <ExcelGrid
+    cols={Array []}
+    rows={Array []}
+  />
+</div>
+`;
+
+exports[`ExcelFile Component should render correctly 1`] = `
+<div>
+  <form>
+    <div
+      className="form-group"
+    >
+      <input
+        className="form-control btn btn-dark"
+        onChange={[Function]}
+        type="file"
+      />
+    </div>
+  </form>
+  <ExcelGrid
+    cols={Array []}
+    rows={Array []}
+  />
+</div>
+`;
